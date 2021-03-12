@@ -12,9 +12,9 @@ To modify the DB connections go to ```db/db``` and change the constants.
   * Modifying the ```RUN_IMPORTS``` to ```true``` inside ```db/db``` that will run the imports at ```npm start```
   * Execute ```npm run import``` on the project"
 
-## End Poins:
+## End Points:
 
-### User endPoint:
+### User end Point:
 
 EndPoint | Method | Description | Quary Parameters | Body Parameters | Response 
 --- | --- | --- | --- | --- | --- 
